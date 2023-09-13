@@ -1,0 +1,13 @@
+body {
+    background-color: darkorange;
+}
+
+li {
+    border: 2px solid black;
+    width: 250px;
+    margin: 20px;
+}
+
+a{
+    color: crimson;
+}
